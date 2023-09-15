@@ -1,0 +1,77 @@
+{
+  "resources/js/app.js": {
+    "dynamicImports": [
+      "resources/js/components/User/Login.vue",
+      "resources/js/components/User/Registration.vue",
+      "resources/js/components/User/Personal.vue",
+      "resources/js/components/User/Index.vue",
+      "resources/js/components/Posts/Index.vue",
+      "resources/js/components/Posts/Create.vue",
+      "resources/js/components/404.vue"
+    ],
+    "file": "assets/app-b6edc1a6.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/components/404.vue": {
+    "file": "assets/404-1afaff21.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/404.vue"
+  },
+  "resources/js/components/Posts/Create.vue": {
+    "file": "assets/Create-40e6f785.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/Posts/Create.vue"
+  },
+  "resources/js/components/Posts/Index.vue": {
+    "file": "assets/Index-12b6d79e.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/Posts/Index.vue"
+  },
+  "resources/js/components/User/Index.vue": {
+    "file": "assets/Index-de116b8c.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/User/Index.vue"
+  },
+  "resources/js/components/User/Login.vue": {
+    "file": "assets/Login-0e016797.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/User/Login.vue"
+  },
+  "resources/js/components/User/Personal.vue": {
+    "file": "assets/Personal-16d19d23.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/User/Personal.vue"
+  },
+  "resources/js/components/User/Registration.vue": {
+    "file": "assets/Registration-425abd85.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/User/Registration.vue"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-71455456.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
